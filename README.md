@@ -2,5 +2,5 @@
 GUI version of hidden wiki!
 
 # installation
-* terminal : https://github.com/HorridHanu/Hidden-Wiki.git
-* ssh : 
+* termux : https://github.com/HorridHanu/Hidden-Wiki.git
+* ssh : git@github.com:HorridHanu/Hidden-Wiki.git
